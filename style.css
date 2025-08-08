@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: black;
+}
+#canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#canvas2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+#canvas1 {
+  z-index: 1;
+  filter: blur(7px) contrast(20);
+  background: black;
+}
+
+
+
