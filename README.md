@@ -49,11 +49,6 @@ LiqMatter/ ├── index.html ├── style.css  └── script.js
 
 ---
 
-## ✨ Inspiration
-
-Inspired by creative coding demos from [Frank's Laboratory](https://www.youtube.com/@Frankslaboratory) and particle-based visual storytelling.
-
----
 
 ## 📌 To Do
 
