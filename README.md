@@ -46,6 +46,7 @@ A dual-canvas particle system with mouse-driven force and dynamic line connectio
 ## 📁 File Structure
 LiqMatter/ ├── index.html ├── style.css  └── script.js
 
+
 ---
 
 ## ✨ Inspiration
